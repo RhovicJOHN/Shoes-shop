@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Amazing Online Shoe Shop</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+ <div class="header">
+    <div class="containter">
+        <div class="navbar">
+            <div class="logo">
+                <img src="img/logoBlack.png" width="125px">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Products</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Contact</a></li>
+                    <li><a href="">Account</a></li>
+                </ul>
+            </nav>
+            <img src="img/cart.png" width="30px" height="30px">
+        </div>
+
+    <div class="row">
+        <div class="col-2">
+            <h1>HEAT ON FEET!</h1>
+            <p>Above all, believe in true love and know that men are like shoes.<br>A couple is like a left and a right foot, and out there is your perfect fit.</p>
+            <a href="" class="btn">Explore Now &#10137;</a>
+        </div>
+        <div class="col-2">
+            <img src="https://images.milledcdn.com/2021-10-11/beGhNxxUBsV_WVu2/8uEGuShnXi-r.gif">
+        </div>
+        </div>
+    </div>
+</div>
+
+<!------ featured categories ------->
+    <div class="categories">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-3">
+                    <img src="img/NIKE.gif">
+                </div>
+                <div class="col-3">
+                    <img src="img/CONVERSE.gif">
+                </div>
+                <div class="col-3">
+                    <img src="img/ADIDAS.gif">
+                </div>  
+            </div>
+        </div>
+        
+    </div>
+<!------ featured products ------->
+    <div class="small-container">
+        <h2>Featured Products</h2>
+        <div class="row">
+            <div class="col-4">
+                <img src="NIKES/307129945_502430374546919_3026241677685022861_n.jpg">
+                <h4>Kyrie Low Basketball Shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱8895</p>
+            </div>
+            <div class="col-4">
+                <img src="NIKES/277544721_949710889069453_4132044487691525692_n.jpg">
+                <h4>Black/White Kyrie Low Basketball Shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱7695</p>
+            </div>
+            <div class="col-4">
+                <img src="NIKES/281313506_1208157299925909_6530936808789078364_n.jpg">
+                <h4>Nike Jordan Air Red</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱8595</p>
+            </div>
+            <div class="col-4">
+                <img src="NIKES/309746365_1033927737300254_1631666329064276701_n.jpg">
+                <h4>Nike Jordan Air Yellow</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱8065</p>
+            </div>
+            <div class="col-4">
+                <img src="NIKES/285970212_550168550149581_845813649111100347_n.jpg">
+                <h4>Black/Red Kyrie Irving Low Basketball Shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱9085</p>
+            </div>
+            <div class="col-4">
+                <img src="CONVERSE/308350973_1166992473893933_5778502088851807882_n.jpg">
+                <h4>White Converse Classic</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱1106</p>
+            </div>
+            <div class="col-4">
+                <img src="CONVERSE/311042698_8555466074478588_5385542433352102798_n.jpg">
+                <h4>White Converse High Cut</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱1278</p>
+            </div>
+            <div class="col-4">
+                <img src="CONVERSE/311304689_5599506853472634_1403388707893571763_n.jpg">
+                <h4>Black Star Converse High Cut</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱1358</p>
+            </div>
+            <div class="col-4">
+                <img src="CONVERSE/311304689_800289614571623_3817401825065800905_n.jpg">
+                <h4>Black Converse High Cut</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱1139</p>
+            </div>
+            <div class="col-4">
+                <img src="VANS/308504098_835029837526323_7355833435241664573_n.jpg">
+                <h4>Vans Green</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱1499</p>
+            </div>
+            <div class="col-4">
+                <img src="VANS/311249287_483183560537108_3811994560472835895_n.jpg">
+                <h4>Vans Green High Cut</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱1799</p>
+            </div>
+            <div class="col-4">
+                <img src="VANS/311492629_1530135967445425_6266527973867242838_n.jpg">
+                <h4>Vans White</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱1599</p>
+            </div>
+            <div class="col-4">
+                <img src="Puma/293290199_2122395831293958_5612564714052526524_n.jpg">
+                <h4>Puma Amare Running Shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱2300</p>
+            </div>
+            <div class="col-4">
+                <img src="Puma/299096853_818580279187598_8043330488403546123_n.jpg">
+                <h4>Puma Lex Men Training Shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱2500</p>
+            </div>
+            <div class="col-4">
+                <img src="Puma/309349038_831874057845753_3167503242644251467_n.jpg">
+                <h4>Puma Flyer Running Shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱2400</p>
+            </div>
+            <div class="col-4">
+                <img src="Puma/311091295_1183262292257308_1206912237854991291_n.jpg">
+                <h4>Puma Enzo Training Shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱3250</p>
+            </div>
+            <div class="col-4">
+                <img src="Puma/311899431_503617818284858_808377580571465305_n.jpg">
+                <h4>Puma Incinerate Runnong shoes</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱4550</p>
+            </div>
+            <div class="col-4">
+                <img src="Adidas/277359586_580753917125215_2134307966422378552_n.jpg">
+                <h4>Adidas Three-Stripe Faux Leather Trainers</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱5000</p>
+            </div>
+            <div class="col-4">
+                <img src="Adidas/309455685_826753978516105_6617699331424605436_n.jpg">
+                <h4>Adidas Duscar Leather-Trimmed Sneakers</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱5000</p>
+            </div>
+            <div class="col-4">
+                <img src="Adidas/311523707_794548861659812_1028560950703347450_n.jpg">
+                <h4>Adidas Forum 84 Low-Top Sneakers</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱5500</p>
+            </div>
+            <div class="col-4">
+                <img src="Adidas/311864686_3249162998680932_7976034304532423821_n.jpg">
+                <h4>Adidas State Carbon Sneakers</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱6700</p>
+            </div>
+            <div class="col-4">
+                <img src="Adidas/311880325_643713380533632_7956236984887108891_n.jpg">
+                <h4>Adidas Farfetch</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>₱4400</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
